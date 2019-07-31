@@ -1,0 +1,689 @@
+,Solution Label,Type,Element,Flags,Soln Conc,Units,Corr Con,Units.1,Int
+0,"MC, 5/28/19",Samp,Al 394.401,uv,-0.01,ppm,-0.01,ppm,458.5
+1,"MC, 5/28/19",Samp,Ca 422.673,,4.70,ppm,4.7,ppm,477651
+2,"MC, 5/28/19",Samp,Cu 324.754,uv,0.00,ppm,0.0,ppm,968.3
+3,"MC, 5/28/19",Samp,Fe 238.204,v,0.00,ppm,0.0,ppm,311.4
+4,"MC, 5/28/19",Samp,K MultiCal,,-,ppm,0.08,-,-
+5,"MC, 5/28/19",Samp,Mg 280.270,v,0.03,ppm,0.03,ppm,1774
+6,"MC, 5/28/19",Samp,Mn 259.372,v,0.00,ppm,0.0,ppm,555.5
+7,"MC, 5/28/19",Samp,Mo 204.598,,0.20,ppm,0.2,ppm,724.5
+8,"MC, 5/28/19",Samp,Na MultiCal,,-,ppm,46.53,-,-
+9,"MC, 5/28/19",Samp,Ni 230.299,uv,0.00,ppm,0.0,ppm,92.63
+10,"MC, 5/28/19",Samp,P multical,,-,ppm,12.14,-,-
+11,"MC, 5/28/19",Samp,S 181.972,uv,-0.07,ppm,-0.07,ppm,83.37
+12,"MC, 5/28/19",Samp,Zn 206.200,uv,0.00,ppm,0.0,ppm,42.22
+13,AB1,Samp,Al 394.401,,0.14,ppm,0.14,ppm,2633
+14,AB1,Samp,Ca 422.673,,1.66,ppm,1.66,ppm,176523
+15,AB1,Samp,Cu 324.754,,0.01,ppm,0.01,ppm,1277
+16,AB1,Samp,Fe 238.204,,0.26,ppm,0.26,ppm,6696
+17,AB1,Samp,K MultiCal,,-,ppm,0.09,-,-
+18,AB1,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1258
+19,AB1,Samp,Mn 259.372,v,0.00,ppm,0.0,ppm,441.0
+20,AB1,Samp,Mo 204.598,,0.25,ppm,0.25,ppm,872.1
+21,AB1,Samp,Na MultiCal,,-,ppm,14.36,-,-
+22,AB1,Samp,Ni 230.299,,0.02,ppm,0.02,ppm,230.5
+23,AB1,Samp,P multical,,-,ppm,4.32,-,-
+24,AB1,Samp,S 181.972,uv,0.00,ppm,0.0,ppm,104.8
+25,AB1,Samp,Zn 206.200,,0.02,ppm,0.02,ppm,74.74
+26,AB2,Samp,Al 394.401,,0.14,ppm,0.14,ppm,2696
+27,AB2,Samp,Ca 422.673,,1.74,ppm,1.74,ppm,184749
+28,AB2,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,849.5
+29,AB2,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,494.7
+30,AB2,Samp,K MultiCal,,-,ppm,2.57,-,-
+31,AB2,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1095
+32,AB2,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,141.0
+33,AB2,Samp,Mo 204.598,v,0.07,ppm,0.07,ppm,293.1
+34,AB2,Samp,Na MultiCal,,-,ppm,15.81,-,-
+35,AB2,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,192.2
+36,AB2,Samp,P multical,,-,ppm,4.44,-,-
+37,AB2,Samp,S 181.972,uv,-0.03,ppm,-0.03,ppm,93.94
+38,AB2,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,52.25
+39,AB3,Samp,Al 394.401,,0.17,ppm,0.17,ppm,3022
+40,AB3,Samp,Ca 422.673,,1.72,ppm,1.72,ppm,182740
+41,AB3,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,765.9
+42,AB3,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,391.3
+43,AB3,Samp,K MultiCal,,-,ppm,0.1,-,-
+44,AB3,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1081
+45,AB3,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,130.2
+46,AB3,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,187.8
+47,AB3,Samp,Na MultiCal,,-,ppm,16.01,-,-
+48,AB3,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,197.8
+49,AB3,Samp,P multical,,-,ppm,4.48,-,-
+50,AB3,Samp,S 181.972,uv,-0.06,ppm,-0.06,ppm,84.23
+51,AB3,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,65.95
+52,AB4,Samp,Al 394.401,,0.15,ppm,0.15,ppm,2762
+53,AB4,Samp,Ca 422.673,,1.72,ppm,1.72,ppm,182209
+54,AB4,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,796.5
+55,AB4,Samp,Fe 238.204,v,0.03,ppm,0.03,ppm,1026
+56,AB4,Samp,K MultiCal,,-,ppm,0.09,-,-
+57,AB4,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1055
+58,AB4,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,131.7
+59,AB4,Samp,Mo 204.598,v,0.02,ppm,0.02,ppm,130.7
+60,AB4,Samp,Na MultiCal,,-,ppm,15.76,-,-
+61,AB4,Samp,Ni 230.299,,0.02,ppm,0.02,ppm,213.8
+62,AB4,Samp,P multical,,-,ppm,4.43,-,-
+63,AB4,Samp,S 181.972,uv,-0.07,ppm,-0.07,ppm,82.58
+64,AB4,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,62.44
+65,AB5,Samp,Al 394.401,,0.12,ppm,0.12,ppm,2390
+66,AB5,Samp,Ca 422.673,,1.69,ppm,1.69,ppm,178980
+67,AB5,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,752.8
+68,AB5,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,472.0
+69,AB5,Samp,K MultiCal,,-,ppm,0.09,-,-
+70,AB5,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,971.6
+71,AB5,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,87.77
+72,AB5,Samp,Mo 204.598,v,0.01,ppm,0.01,ppm,103.5
+73,AB5,Samp,Na MultiCal,,-,ppm,15.45,-,-
+74,AB5,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,193.9
+75,AB5,Samp,P multical,,-,ppm,4.45,-,-
+76,AB5,Samp,S 181.972,uv,-0.10,ppm,-0.1,ppm,72.44
+77,AB5,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,58.32
+78,AB6,Samp,Al 394.401,,0.17,ppm,0.17,ppm,3099
+79,AB6,Samp,Ca 422.673,,1.69,ppm,1.69,ppm,179762
+80,AB6,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,729.7
+81,AB6,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,390.8
+82,AB6,Samp,K MultiCal,,-,ppm,0.09,-,-
+83,AB6,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,990.2
+84,AB6,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,68.11
+85,AB6,Samp,Mo 204.598,v,0.01,ppm,0.01,ppm,97.70
+86,AB6,Samp,Na MultiCal,,-,ppm,15.36,-,-
+87,AB6,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,179.9
+88,AB6,Samp,P multical,,-,ppm,4.46,-,-
+89,AB6,Samp,S 181.972,uv,-0.11,ppm,-0.11,ppm,69.48
+90,AB6,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,59.46
+91,AB7,Samp,Al 394.401,,0.14,ppm,0.14,ppm,2612
+92,AB7,Samp,Ca 422.673,,1.68,ppm,1.68,ppm,178797
+93,AB7,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,713.6
+94,AB7,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,383.1
+95,AB7,Samp,K MultiCal,,-,ppm,0.09,-,-
+96,AB7,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1009
+97,AB7,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,84.89
+98,AB7,Samp,Mo 204.598,uv,0.01,ppm,0.01,ppm,92.60
+99,AB7,Samp,Na MultiCal,,-,ppm,15.39,-,-
+100,AB7,Samp,Ni 230.299,,0.02,ppm,0.02,ppm,206.5
+101,AB7,Samp,P multical,,-,ppm,4.52,-,-
+102,AB7,Samp,S 181.972,uv,-0.11,ppm,-0.11,ppm,69.69
+103,AB7,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,71.53
+104,AB8,Samp,Al 394.401,,0.16,ppm,0.16,ppm,2876
+105,AB8,Samp,Ca 422.673,,1.71,ppm,1.71,ppm,181608
+106,AB8,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,763.7
+107,AB8,Samp,Fe 238.204,v,0.00,ppm,0.0,ppm,341.0
+108,AB8,Samp,K MultiCal,,-,ppm,0.1,-,-
+109,AB8,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1236
+110,AB8,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,79.23
+111,AB8,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,73.99
+112,AB8,Samp,Na MultiCal,,-,ppm,14.82,-,-
+113,AB8,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,205.0
+114,AB8,Samp,P multical,,-,ppm,4.53,-,-
+115,AB8,Samp,S 181.972,uv,-0.10,ppm,-0.1,ppm,74.28
+116,AB8,Samp,Zn 206.200,,0.02,ppm,0.02,ppm,84.98
+117,AB9,Samp,Al 394.401,,0.16,ppm,0.16,ppm,2911
+118,AB9,Samp,Ca 422.673,,1.64,ppm,1.64,ppm,174606
+119,AB9,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,772.5
+120,AB9,Samp,Fe 238.204,,0.09,ppm,0.09,ppm,2546
+121,AB9,Samp,K MultiCal,,-,ppm,0.1,-,-
+122,AB9,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1054
+123,AB9,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,162.1
+124,AB9,Samp,Mo 204.598,uv,0.01,ppm,0.01,ppm,88.44
+125,AB9,Samp,Na MultiCal,,-,ppm,14.75,-,-
+126,AB9,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,190.4
+127,AB9,Samp,P multical,,-,ppm,4.38,-,-
+128,AB9,Samp,S 181.972,uv,-0.13,ppm,-0.13,ppm,64.37
+129,AB9,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,68.63
+130,AB10-,Samp,Al 394.401,,0.16,ppm,0.16,ppm,2901
+131,AB10-,Samp,Ca 422.673,,1.65,ppm,1.65,ppm,175137
+132,AB10-,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,754.3
+133,AB10-,Samp,Fe 238.204,v,0.00,ppm,0.0,ppm,323.3
+134,AB10-,Samp,K MultiCal,,-,ppm,0.11,-,-
+135,AB10-,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1135
+136,AB10-,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,73.44
+137,AB10-,Samp,Mo 204.598,v,0.00,ppm,0.0,ppm,86.20
+138,AB10-,Samp,Na MultiCal,,-,ppm,14.63,-,-
+139,AB10-,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,199.2
+140,AB10-,Samp,P multical,,-,ppm,4.36,-,-
+141,AB10-,Samp,S 181.972,uv,-0.10,ppm,-0.1,ppm,72.31
+142,AB10-,Samp,Zn 206.200,,0.05,ppm,0.05,ppm,175.0
+143,AB11,Samp,Al 394.401,,0.17,ppm,0.17,ppm,3119
+144,AB11,Samp,Ca 422.673,,1.66,ppm,1.66,ppm,176005
+145,AB11,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,741.0
+146,AB11,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,363.6
+147,AB11,Samp,K MultiCal,,-,ppm,0.12,-,-
+148,AB11,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1077
+149,AB11,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,69.66
+150,AB11,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,71.44
+151,AB11,Samp,Na MultiCal,,-,ppm,14.96,-,-
+152,AB11,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,194.8
+153,AB11,Samp,P multical,,-,ppm,4.47,-,-
+154,AB11,Samp,S 181.972,uv,-0.14,ppm,-0.14,ppm,61.36
+155,AB11,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,67.53
+156,AB12,Samp,Al 394.401,,0.16,ppm,0.16,ppm,2931
+157,AB12,Samp,Ca 422.673,,1.62,ppm,1.62,ppm,172034
+158,AB12,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,818.2
+159,AB12,Samp,Fe 238.204,v,0.02,ppm,0.02,ppm,668.2
+160,AB12,Samp,K MultiCal,,-,ppm,0.14,-,-
+161,AB12,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1338
+162,AB12,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,223.8
+163,AB12,Samp,Mo 204.598,v,0.01,ppm,0.01,ppm,88.84
+164,AB12,Samp,Na MultiCal,,-,ppm,14.41,-,-
+165,AB12,Samp,Ni 230.299,,0.02,ppm,0.02,ppm,251.6
+166,AB12,Samp,P multical,,-,ppm,4.33,-,-
+167,AB12,Samp,S 181.972,uv,-0.07,ppm,-0.07,ppm,82.59
+168,AB12,Samp,Zn 206.200,,0.02,ppm,0.02,ppm,73.16
+169,V1,Samp,Al 394.401,,0.37,ppm,0.37,ppm,6065
+170,V1,Samp,Ca 422.673,,14.05,ppm,14.05,ppm,1381999
+171,V1,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,876.7
+172,V1,Samp,Fe 238.204,,0.08,ppm,0.08,ppm,2268
+173,V1,Samp,K MultiCal,,-,ppm,0.29,-,-
+174,V1,Samp,Mg 280.270,,0.11,ppm,0.11,ppm,7526
+175,V1,Samp,Mn 259.372,uv,-0.00,ppm,-0.0,ppm,125.6
+176,V1,Samp,Mo 204.598,v,0.07,ppm,0.07,ppm,282.0
+177,V1,Samp,Na MultiCal,,-,ppm,136.7,-,-
+178,V1,Samp,Ni 230.299,,0.02,ppm,0.02,ppm,205.4
+179,V1,Samp,P multical,,-,ppm,36.65,-,-
+180,V1,Samp,S 181.972,,0.24,ppm,0.24,ppm,179.1
+181,V1,Samp,Zn 206.200,,0.07,ppm,0.07,ppm,221.1
+182,V2,Samp,Al 394.401,,0.15,ppm,0.15,ppm,2781
+183,V2,Samp,Ca 422.673,,1.60,ppm,1.6,ppm,170982
+184,V2,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,747.1
+185,V2,Samp,Fe 238.204,,0.20,ppm,0.2,ppm,5190
+186,V2,Samp,K MultiCal,,-,ppm,0.11,-,-
+187,V2,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1333
+188,V2,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,763.0
+189,V2,Samp,Mo 204.598,v,0.00,ppm,0.0,ppm,85.28
+190,V2,Samp,Na MultiCal,,-,ppm,14.86,-,-
+191,V2,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,55.05
+192,V2,Samp,P multical,,-,ppm,4.24,-,-
+193,V2,Samp,S 181.972,uv,-0.10,ppm,-0.1,ppm,72.34
+194,V2,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,52.70
+195,V3,Samp,Al 394.401,,0.15,ppm,0.15,ppm,2785
+196,V3,Samp,Ca 422.673,,1.65,ppm,1.65,ppm,175181
+197,V3,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,770.3
+198,V3,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,364.2
+199,V3,Samp,K MultiCal,,-,ppm,0.13,-,-
+200,V3,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1329
+201,V3,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,860.8
+202,V3,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,71.98
+203,V3,Samp,Na MultiCal,,-,ppm,15.08,-,-
+204,V3,Samp,Ni 230.299,uv,-0.01,ppm,-0.01,ppm,24.81
+205,V3,Samp,P multical,,-,ppm,4.39,-,-
+206,V3,Samp,S 181.972,uv,-0.14,ppm,-0.14,ppm,61.90
+207,V3,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,69.53
+208,V4,Samp,Al 394.401,uv,-0.02,ppm,-0.02,ppm,339.4
+209,V4,Samp,Ca 422.673,uv,-0.10,ppm,-0.1,ppm,104.9
+210,V4,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,456.4
+211,V4,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,54.64
+212,V4,Samp,Mg 280.270,v,0.00,ppm,0.0,ppm,82.37
+213,V4,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,50.01
+214,V4,Samp,Mo 204.598,uv,0.01,ppm,0.01,ppm,91.70
+215,V4,Samp,Ni 230.299,uv,-0.01,ppm,-0.01,ppm,-10.56
+216,V4,Samp,S 181.972,uv,-0.22,ppm,-0.22,ppm,35.93
+217,V4,Samp,Zn 206.200,uv,-0.01,ppm,-0.01,ppm,13.63
+218,V5,Samp,Al 394.401,,0.15,ppm,0.15,ppm,2775
+219,V5,Samp,Ca 422.673,,1.34,ppm,1.34,ppm,144950
+220,V5,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,787.2
+221,V5,Samp,Fe 238.204,v,0.03,ppm,0.03,ppm,869.2
+222,V5,Samp,K MultiCal,,-,ppm,0.12,-,-
+223,V5,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1151
+224,V5,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,800.3
+225,V5,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,60.74
+226,V5,Samp,Na MultiCal,,-,ppm,12.07,-,-
+227,V5,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,64.58
+228,V5,Samp,P multical,,-,ppm,3.53,-,-
+229,V5,Samp,S 181.972,uv,-0.14,ppm,-0.14,ppm,60.26
+230,V5,Samp,Zn 206.200,uv,0.00,ppm,0.0,ppm,40.18
+231,V6,Samp,Al 394.401,,0.13,ppm,0.13,ppm,2555
+232,V6,Samp,Ca 422.673,,1.69,ppm,1.69,ppm,179539
+233,V6,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,743.6
+234,V6,Samp,Fe 238.204,uv,0.00,ppm,0.0,ppm,258.8
+235,V6,Samp,K MultiCal,,-,ppm,0.13,-,-
+236,V6,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1277
+237,V6,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,908.7
+238,V6,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,60.13
+239,V6,Samp,Na MultiCal,,-,ppm,15.38,-,-
+240,V6,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,55.17
+241,V6,Samp,P multical,,-,ppm,4.39,-,-
+242,V6,Samp,S 181.972,uv,-0.13,ppm,-0.13,ppm,65.36
+243,V6,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,59.55
+244,V7,Samp,Al 394.401,,0.13,ppm,0.13,ppm,2515
+245,V7,Samp,Ca 422.673,,2.35,ppm,2.35,ppm,245159
+246,V7,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,740.5
+247,V7,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,400.1
+248,V7,Samp,K MultiCal,,-,ppm,0.13,-,-
+249,V7,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1532
+250,V7,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,851.1
+251,V7,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,75.50
+252,V7,Samp,Na MultiCal,,-,ppm,21.16,-,-
+253,V7,Samp,Ni 230.299,uv,-0.01,ppm,-0.01,ppm,46.29
+254,V7,Samp,P multical,,-,ppm,6.18,-,-
+255,V7,Samp,S 181.972,uv,-0.15,ppm,-0.15,ppm,58.91
+256,V7,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,48.97
+257,V8,Samp,Al 394.401,,0.14,ppm,0.14,ppm,2645
+258,V8,Samp,Ca 422.673,,1.48,ppm,1.48,ppm,158185
+259,V8,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,785.9
+260,V8,Samp,Fe 238.204,v,0.02,ppm,0.02,ppm,823.5
+261,V8,Samp,K MultiCal,,-,ppm,0.12,-,-
+262,V8,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1170
+263,V8,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,863.6
+264,V8,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,75.12
+265,V8,Samp,Na MultiCal,,-,ppm,13.0,-,-
+266,V8,Samp,Ni 230.299,uv,-0.01,ppm,-0.01,ppm,30.90
+267,V8,Samp,P multical,,-,ppm,3.94,-,-
+268,V8,Samp,S 181.972,uv,-0.12,ppm,-0.12,ppm,67.89
+269,V8,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,46.62
+270,V9,Samp,Al 394.401,,0.13,ppm,0.13,ppm,2439
+271,V9,Samp,Ca 422.673,,1.47,ppm,1.47,ppm,157379
+272,V9,Samp,Cu 324.754,uv,-0.00,ppm,-0.0,ppm,781.3
+273,V9,Samp,Fe 238.204,v,0.02,ppm,0.02,ppm,773.4
+274,V9,Samp,K MultiCal,,-,ppm,0.12,-,-
+275,V9,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1143
+276,V9,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,846.4
+277,V9,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,67.68
+278,V9,Samp,Na MultiCal,,-,ppm,13.21,-,-
+279,V9,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,59.99
+280,V9,Samp,P multical,,-,ppm,3.96,-,-
+281,V9,Samp,S 181.972,uv,-0.14,ppm,-0.14,ppm,60.31
+282,V9,Samp,Zn 206.200,uv,0.00,ppm,0.0,ppm,34.59
+283,V10,Samp,Al 394.401,,0.13,ppm,0.13,ppm,2461
+284,V10,Samp,Ca 422.673,,1.90,ppm,1.9,ppm,200269
+285,V10,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,757.1
+286,V10,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,455.2
+287,V10,Samp,K MultiCal,,-,ppm,0.12,-,-
+288,V10,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1318
+289,V10,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,836.0
+290,V10,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,73.24
+291,V10,Samp,Na MultiCal,,-,ppm,16.86,-,-
+292,V10,Samp,Ni 230.299,uv,-0.01,ppm,-0.01,ppm,48.95
+293,V10,Samp,P multical,,-,ppm,5.08,-,-
+294,V10,Samp,S 181.972,uv,-0.16,ppm,-0.16,ppm,54.28
+295,V10,Samp,Zn 206.200,,0.00,ppm,0.0,ppm,39.08
+296,V11,Samp,Al 394.401,,0.14,ppm,0.14,ppm,2592
+297,V11,Samp,Ca 422.673,,1.64,ppm,1.64,ppm,174483
+298,V11,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,726.3
+299,V11,Samp,Fe 238.204,v,0.01,ppm,0.01,ppm,394.1
+300,V11,Samp,K MultiCal,,-,ppm,0.12,-,-
+301,V11,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1247
+302,V11,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,840.4
+303,V11,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,70.91
+304,V11,Samp,Na MultiCal,,-,ppm,14.1,-,-
+305,V11,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,63.67
+306,V11,Samp,P multical,,-,ppm,4.44,-,-
+307,V11,Samp,S 181.972,uv,-0.12,ppm,-0.12,ppm,66.19
+308,V11,Samp,Zn 206.200,uv,0.01,ppm,0.01,ppm,43.68
+309,V12,Samp,Al 394.401,,0.15,ppm,0.15,ppm,2806
+310,V12,Samp,Ca 422.673,,1.38,ppm,1.38,ppm,148103
+311,V12,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,739.4
+312,V12,Samp,Fe 238.204,,0.10,ppm,0.1,ppm,2723
+313,V12,Samp,K MultiCal,,-,ppm,0.13,-,-
+314,V12,Samp,Mg 280.270,v,0.02,ppm,0.02,ppm,1140
+315,V12,Samp,Mn 259.372,v,0.01,ppm,0.01,ppm,906.7
+316,V12,Samp,Mo 204.598,uv,-0.01,ppm,-0.01,ppm,53.85
+317,V12,Samp,Na MultiCal,,-,ppm,12.23,-,-
+318,V12,Samp,Ni 230.299,uv,-0.00,ppm,-0.0,ppm,69.43
+319,V12,Samp,P multical,,-,ppm,3.76,-,-
+320,V12,Samp,S 181.972,uv,-0.14,ppm,-0.14,ppm,60.62
+321,V12,Samp,Zn 206.200,uv,0.00,ppm,0.0,ppm,38.18
+322,UNDIGESTED MC,Samp,Al 394.401,uv,-0.02,ppm,-0.02,ppm,358.3
+323,UNDIGESTED MC,Samp,Ca 422.673,,1.52,ppm,1.52,ppm,162621
+324,UNDIGESTED MC,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,737.9
+325,UNDIGESTED MC,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,76.02
+326,UNDIGESTED MC,Samp,K MultiCal,,-,ppm,0.07,-,-
+327,UNDIGESTED MC,Samp,Mg 280.270,v,0.01,ppm,0.01,ppm,697.2
+328,UNDIGESTED MC,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,52.08
+329,UNDIGESTED MC,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,73.10
+330,UNDIGESTED MC,Samp,Na MultiCal,,-,ppm,13.47,-,-
+331,UNDIGESTED MC,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,148.5
+332,UNDIGESTED MC,Samp,P multical,,-,ppm,4.43,-,-
+333,UNDIGESTED MC,Samp,S 181.972,uv,-0.16,ppm,-0.16,ppm,54.27
+334,UNDIGESTED MC,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,46.78
+335,UNDIGESTED MC,Samp,Al 394.401,uv,-0.02,ppm,-0.02,ppm,316.0
+336,UNDIGESTED MC,Samp,Ca 422.673,,1.54,ppm,1.54,ppm,164448
+337,UNDIGESTED MC,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,698.8
+338,UNDIGESTED MC,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,82.35
+339,UNDIGESTED MC,Samp,K MultiCal,,-,ppm,0.08,-,-
+340,UNDIGESTED MC,Samp,Mg 280.270,v,0.01,ppm,0.01,ppm,687.8
+341,UNDIGESTED MC,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,72.74
+342,UNDIGESTED MC,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,58.08
+343,UNDIGESTED MC,Samp,Na MultiCal,,-,ppm,13.88,-,-
+344,UNDIGESTED MC,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,139.7
+345,UNDIGESTED MC,Samp,P multical,,-,ppm,4.52,-,-
+346,UNDIGESTED MC,Samp,S 181.972,uv,-0.17,ppm,-0.17,ppm,50.93
+347,UNDIGESTED MC,Samp,Zn 206.200,uv,0.00,ppm,0.0,ppm,41.45
+348,UNDIGESTED MC,Samp,Al 394.401,uv,-0.02,ppm,-0.02,ppm,336.0
+349,UNDIGESTED MC,Samp,Ca 422.673,,1.54,ppm,1.54,ppm,164038
+350,UNDIGESTED MC,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,716.0
+351,UNDIGESTED MC,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,87.57
+352,UNDIGESTED MC,Samp,K MultiCal,,-,ppm,0.08,-,-
+353,UNDIGESTED MC,Samp,Mg 280.270,v,0.01,ppm,0.01,ppm,701.1
+354,UNDIGESTED MC,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,80.36
+355,UNDIGESTED MC,Samp,Mo 204.598,v,0.00,ppm,0.0,ppm,86.98
+356,UNDIGESTED MC,Samp,Na MultiCal,,-,ppm,13.96,-,-
+357,UNDIGESTED MC,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,137.0
+358,UNDIGESTED MC,Samp,P multical,,-,ppm,4.47,-,-
+359,UNDIGESTED MC,Samp,S 181.972,uv,-0.17,ppm,-0.17,ppm,52.07
+360,UNDIGESTED MC,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,48.12
+361,UNDIGESTED MC,Samp,Al 394.401,uv,-0.02,ppm,-0.02,ppm,376.5
+362,UNDIGESTED MC,Samp,Ca 422.673,,1.55,ppm,1.55,ppm,165095
+363,UNDIGESTED MC,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,723.4
+364,UNDIGESTED MC,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,72.19
+365,UNDIGESTED MC,Samp,K MultiCal,,-,ppm,0.08,-,-
+366,UNDIGESTED MC,Samp,Mg 280.270,v,0.01,ppm,0.01,ppm,711.9
+367,UNDIGESTED MC,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,47.22
+368,UNDIGESTED MC,Samp,Mo 204.598,uv,-0.00,ppm,-0.0,ppm,60.98
+369,UNDIGESTED MC,Samp,Na MultiCal,,-,ppm,13.53,-,-
+370,UNDIGESTED MC,Samp,Ni 230.299,uv,0.01,ppm,0.01,ppm,156.6
+371,UNDIGESTED MC,Samp,P multical,,-,ppm,4.49,-,-
+372,UNDIGESTED MC,Samp,S 181.972,uv,-0.17,ppm,-0.17,ppm,50.43
+373,UNDIGESTED MC,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,59.02
+374,UNDIGESTED MC,Samp,Al 394.401,uv,-0.01,ppm,-0.01,ppm,420.9
+375,UNDIGESTED MC,Samp,Ca 422.673,,1.59,ppm,1.59,ppm,169842
+376,UNDIGESTED MC,Samp,Cu 324.754,uv,-0.01,ppm,-0.01,ppm,771.0
+377,UNDIGESTED MC,Samp,Fe 238.204,uv,-0.01,ppm,-0.01,ppm,73.71
+378,UNDIGESTED MC,Samp,K MultiCal,,-,ppm,0.08,-,-
+379,UNDIGESTED MC,Samp,Mg 280.270,v,0.01,ppm,0.01,ppm,789.3
+380,UNDIGESTED MC,Samp,Mn 259.372,uv,-0.01,ppm,-0.01,ppm,66.66
+381,UNDIGESTED MC,Samp,Mo 204.598,uv,0.00,ppm,0.0,ppm,85.47
+382,UNDIGESTED MC,Samp,Na MultiCal,,-,ppm,13.9,-,-
+383,UNDIGESTED MC,Samp,Ni 230.299,,0.01,ppm,0.01,ppm,165.9
+384,UNDIGESTED MC,Samp,P multical,,-,ppm,4.57,-,-
+385,UNDIGESTED MC,Samp,S 181.972,uv,-0.18,ppm,-0.18,ppm,48.77
+386,UNDIGESTED MC,Samp,Zn 206.200,,0.01,ppm,0.01,ppm,50.71
+387,3050 B V1,Samp,Al 394.401,,182.7,ppm,182.7,ppm,2350533
+388,3050 B V1,Samp,Ca 422.673,,23.74,ppm,23.74,ppm,2284022
+389,3050 B V1,Samp,Cu 324.754,,0.16,ppm,0.16,ppm,6449
+390,3050 B V1,Samp,Fe 238.204,x,364.4,ppm,364.4,ppm,7091980
+391,3050 B V1,Samp,K MultiCal,,-,ppm,12.13,-,-
+392,3050 B V1,Samp,Mg 280.270,,21.66,ppm,21.66,ppm,1441024
+393,3050 B V1,Samp,Mn 259.372,,13.50,ppm,13.5,ppm,672243
+394,3050 B V1,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,199.0
+395,3050 B V1,Samp,Na MultiCal,,-,ppm,1.3,-,-
+396,3050 B V1,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1965
+397,3050 B V1,Samp,P multical,,-,ppm,7.34,-,-
+398,3050 B V1,Samp,S 181.972,,2.83,ppm,2.83,ppm,984.2
+399,3050 B V1,Samp,Zn 206.200,,0.60,ppm,0.6,ppm,1768
+400,V2,Samp,Al 394.401,,182.7,ppm,182.7,ppm,2350323
+401,V2,Samp,Ca 422.673,,22.69,ppm,22.69,ppm,2187828
+402,V2,Samp,Cu 324.754,,0.16,ppm,0.16,ppm,6636
+403,V2,Samp,Fe 238.204,x,383.2,ppm,383.2,ppm,7409294
+404,V2,Samp,K MultiCal,,-,ppm,12.74,-,-
+405,V2,Samp,Mg 280.270,,20.61,ppm,20.61,ppm,1373452
+406,V2,Samp,Mn 259.372,,17.00,ppm,17.0,ppm,843861
+407,V2,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,206.7
+408,V2,Samp,Na MultiCal,,-,ppm,1.2,-,-
+409,V2,Samp,Ni 230.299,,0.29,ppm,0.29,ppm,2352
+410,V2,Samp,P multical,,-,ppm,7.14,-,-
+411,V2,Samp,S 181.972,,2.73,ppm,2.73,ppm,953.5
+412,V2,Samp,Zn 206.200,,0.60,ppm,0.6,ppm,1757
+413,V3,Samp,Al 394.401,,186.3,ppm,186.3,ppm,2390933
+414,V3,Samp,Ca 422.673,,23.28,ppm,23.28,ppm,2242350
+415,V3,Samp,Cu 324.754,,0.16,ppm,0.16,ppm,6464
+416,V3,Samp,Fe 238.204,x,374.6,ppm,374.6,ppm,7263800
+417,V3,Samp,K MultiCal,,-,ppm,13.21,-,-
+418,V3,Samp,Mg 280.270,,21.57,ppm,21.57,ppm,1435514
+419,V3,Samp,Mn 259.372,,14.57,ppm,14.57,ppm,724951
+420,V3,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,207.5
+421,V3,Samp,Na MultiCal,,-,ppm,1.36,-,-
+422,V3,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1978
+423,V3,Samp,P multical,,-,ppm,7.31,-,-
+424,V3,Samp,S 181.972,,2.82,ppm,2.82,ppm,978.6
+425,V3,Samp,Zn 206.200,,0.58,ppm,0.58,ppm,1705
+426,V4,Samp,Al 394.401,,177.6,ppm,177.6,ppm,2293405
+427,V4,Samp,Ca 422.673,,28.82,ppm,28.82,ppm,2743081
+428,V4,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6069
+429,V4,Samp,Fe 238.204,x,372.4,ppm,372.4,ppm,7227585
+430,V4,Samp,K MultiCal,,-,ppm,12.8,-,-
+431,V4,Samp,Mg 280.270,,21.25,ppm,21.25,ppm,1415018
+432,V4,Samp,Mn 259.372,,13.72,ppm,13.72,ppm,682857
+433,V4,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,189.2
+434,V4,Samp,Na MultiCal,,-,ppm,1.22,-,-
+435,V4,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1924
+436,V4,Samp,P multical,,-,ppm,6.95,-,-
+437,V4,Samp,S 181.972,,2.66,ppm,2.66,ppm,930.8
+438,V4,Samp,Zn 206.200,,0.53,ppm,0.53,ppm,1545
+439,V5,Samp,Al 394.401,,182.5,ppm,182.5,ppm,2348015
+440,V5,Samp,Ca 422.673,,27.77,ppm,27.77,ppm,2648547
+441,V5,Samp,Cu 324.754,,0.16,ppm,0.16,ppm,6377
+442,V5,Samp,Fe 238.204,x,376.7,ppm,376.7,ppm,7300170
+443,V5,Samp,K MultiCal,,-,ppm,13.3,-,-
+444,V5,Samp,Mg 280.270,,21.66,ppm,21.66,ppm,1441326
+445,V5,Samp,Mn 259.372,,14.82,ppm,14.82,ppm,737228
+446,V5,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,186.1
+447,V5,Samp,Na MultiCal,,-,ppm,1.12,-,-
+448,V5,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1936
+449,V5,Samp,P multical,,-,ppm,7.33,-,-
+450,V5,Samp,S 181.972,,2.82,ppm,2.82,ppm,979.4
+451,V5,Samp,Zn 206.200,,0.54,ppm,0.54,ppm,1589
+452,V7,Samp,Al 394.401,,183.6,ppm,183.6,ppm,2360615
+453,V7,Samp,Ca 422.673,,21.02,ppm,21.02,ppm,2034754
+454,V7,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6315
+455,V7,Samp,Fe 238.204,x,337.1,ppm,337.1,ppm,6632661
+456,V7,Samp,K MultiCal,,-,ppm,14.28,-,-
+457,V7,Samp,Mg 280.270,,21.29,ppm,21.29,ppm,1417188
+458,V7,Samp,Mn 259.372,,13.97,ppm,13.97,ppm,695290
+459,V7,Samp,Mo 204.598,v,0.03,ppm,0.03,ppm,154.1
+460,V7,Samp,Na MultiCal,,-,ppm,1.53,-,-
+461,V7,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1934
+462,V7,Samp,P multical,,-,ppm,6.9,-,-
+463,V7,Samp,S 181.972,,2.63,ppm,2.63,ppm,922.0
+464,V7,Samp,Zn 206.200,,0.54,ppm,0.54,ppm,1595
+465,V8,Samp,Al 394.401,,177.5,ppm,177.5,ppm,2292443
+466,V8,Samp,Ca 422.673,,21.47,ppm,21.47,ppm,2075549
+467,V8,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6196
+468,V8,Samp,Fe 238.204,x,375.6,ppm,375.6,ppm,7280240
+469,V8,Samp,K MultiCal,,-,ppm,12.96,-,-
+470,V8,Samp,Mg 280.270,,21.11,ppm,21.11,ppm,1405449
+471,V8,Samp,Mn 259.372,,13.98,ppm,13.98,ppm,695729
+472,V8,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,202.2
+473,V8,Samp,Na MultiCal,,-,ppm,1.27,-,-
+474,V8,Samp,Ni 230.299,,0.23,ppm,0.23,ppm,1893
+475,V8,Samp,P multical,,-,ppm,7.13,-,-
+476,V8,Samp,S 181.972,,2.66,ppm,2.66,ppm,931.2
+477,V8,Samp,Zn 206.200,,0.53,ppm,0.53,ppm,1568
+478,V9,Samp,Al 394.401,,176.2,ppm,176.2,ppm,2278458
+479,V9,Samp,Ca 422.673,,20.60,ppm,20.6,ppm,1995769
+480,V9,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6137
+481,V9,Samp,Fe 238.204,x,359.9,ppm,359.9,ppm,7017086
+482,V9,Samp,K MultiCal,,-,ppm,13.09,-,-
+483,V9,Samp,Mg 280.270,,20.56,ppm,20.56,ppm,1370209
+484,V9,Samp,Mn 259.372,,14.03,ppm,14.03,ppm,698331
+485,V9,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,184.5
+486,V9,Samp,Na MultiCal,,-,ppm,1.21,-,-
+487,V9,Samp,Ni 230.299,,0.22,ppm,0.22,ppm,1828
+488,V9,Samp,P multical,,-,ppm,7.02,-,-
+489,V9,Samp,S 181.972,,2.58,ppm,2.58,ppm,905.0
+490,V9,Samp,Zn 206.200,,0.52,ppm,0.52,ppm,1543
+491,V10,Samp,Al 394.401,,185.6,ppm,185.6,ppm,2382502
+492,V10,Samp,Ca 422.673,,23.70,ppm,23.7,ppm,2280021
+493,V10,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6313
+494,V10,Samp,Fe 238.204,x,371.3,ppm,371.3,ppm,7208894
+495,V10,Samp,K MultiCal,,-,ppm,13.41,-,-
+496,V10,Samp,Mg 280.270,,21.72,ppm,21.72,ppm,1444957
+497,V10,Samp,Mn 259.372,,16.50,ppm,16.5,ppm,819783
+498,V10,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,199.7
+499,V10,Samp,Na MultiCal,,-,ppm,1.43,-,-
+500,V10,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1924
+501,V10,Samp,P multical,,-,ppm,7.45,-,-
+502,V10,Samp,S 181.972,,2.76,ppm,2.76,ppm,960.8
+503,V10,Samp,Zn 206.200,,0.55,ppm,0.55,ppm,1603
+504,V11,Samp,Al 394.401,,174.9,ppm,174.9,ppm,2263823
+505,V11,Samp,Ca 422.673,,22.28,ppm,22.28,ppm,2150647
+506,V11,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,5988
+507,V11,Samp,Fe 238.204,x,354.7,ppm,354.7,ppm,6928704
+508,V11,Samp,K MultiCal,,-,ppm,13.83,-,-
+509,V11,Samp,Mg 280.270,,20.70,ppm,20.7,ppm,1379407
+510,V11,Samp,Mn 259.372,,12.87,ppm,12.87,ppm,641284
+511,V11,Samp,Mo 204.598,v,0.03,ppm,0.03,ppm,176.1
+512,V11,Samp,Na MultiCal,,-,ppm,1.23,-,-
+513,V11,Samp,Ni 230.299,,0.22,ppm,0.22,ppm,1813
+514,V11,Samp,P multical,,-,ppm,6.87,-,-
+515,V11,Samp,S 181.972,,2.51,ppm,2.51,ppm,885.2
+516,V11,Samp,Zn 206.200,,0.52,ppm,0.52,ppm,1543
+517,V12,Samp,Al 394.401,,174.0,ppm,174.0,ppm,2252933
+518,V12,Samp,Ca 422.673,,24.83,ppm,24.83,ppm,2383164
+519,V12,Samp,Cu 324.754,,0.15,ppm,0.15,ppm,6267
+520,V12,Samp,Fe 238.204,x,358.4,ppm,358.4,ppm,6991420
+521,V12,Samp,K MultiCal,,-,ppm,12.49,-,-
+522,V12,Samp,Mg 280.270,,20.68,ppm,20.68,ppm,1377704
+523,V12,Samp,Mn 259.372,,15.81,ppm,15.81,ppm,785548
+524,V12,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,196.2
+525,V12,Samp,Na MultiCal,,-,ppm,1.36,-,-
+526,V12,Samp,Ni 230.299,,0.24,ppm,0.24,ppm,1948
+527,V12,Samp,P multical,,-,ppm,7.12,-,-
+528,V12,Samp,S 181.972,,2.71,ppm,2.71,ppm,944.8
+529,V12,Samp,Zn 206.200,,0.54,ppm,0.54,ppm,1583
+530,3050 B AB1,Samp,Al 394.401,,259.3,ppm,259.3,ppm,3147815
+531,3050 B AB1,Samp,Ca 422.673,,25.17,ppm,25.17,ppm,2414076
+532,3050 B AB1,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6818
+533,3050 B AB1,Samp,Fe 238.204,x,346.6,ppm,346.6,ppm,6792053
+534,3050 B AB1,Samp,K MultiCal,,-,ppm,22.89,-,-
+535,3050 B AB1,Samp,Mg 280.270,,30.14,ppm,30.14,ppm,1983224
+536,3050 B AB1,Samp,Mn 259.372,,13.31,ppm,13.31,ppm,662977
+537,3050 B AB1,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,201.6
+538,3050 B AB1,Samp,Na MultiCal,,-,ppm,5.84,-,-
+539,3050 B AB1,Samp,Ni 230.299,,0.26,ppm,0.26,ppm,2133
+540,3050 B AB1,Samp,P multical,,-,ppm,6.73,-,-
+541,3050 B AB1,Samp,S 181.972,,2.83,ppm,2.83,ppm,984.1
+542,3050 B AB1,Samp,Zn 206.200,,0.56,ppm,0.56,ppm,1657
+543,AB2,Samp,Al 394.401,x,271.6,ppm,271.6,ppm,3268973
+544,AB2,Samp,Ca 422.673,,22.31,ppm,22.31,ppm,2153160
+545,AB2,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6908
+546,AB2,Samp,Fe 238.204,x,386.1,ppm,386.1,ppm,7458194
+547,AB2,Samp,K MultiCal,,-,ppm,23.96,-,-
+548,AB2,Samp,Mg 280.270,,30.41,ppm,30.41,ppm,2000206
+549,AB2,Samp,Mn 259.372,,15.44,ppm,15.44,ppm,767671
+550,AB2,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,193.9
+551,AB2,Samp,Na MultiCal,,-,ppm,5.98,-,-
+552,AB2,Samp,Ni 230.299,,0.26,ppm,0.26,ppm,2117
+553,AB2,Samp,P multical,,-,ppm,7.25,-,-
+554,AB2,Samp,S 181.972,,2.75,ppm,2.75,ppm,957.8
+555,AB2,Samp,Zn 206.200,,0.58,ppm,0.58,ppm,1691
+556,AB3,Samp,Al 394.401,x,277.7,ppm,277.7,ppm,3328830
+557,AB3,Samp,Ca 422.673,,22.80,ppm,22.8,ppm,2197969
+558,AB3,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6962
+559,AB3,Samp,Fe 238.204,x,406.1,ppm,406.1,ppm,7794934
+560,AB3,Samp,K MultiCal,,-,ppm,21.76,-,-
+561,AB3,Samp,Mg 280.270,,30.18,ppm,30.18,ppm,1985779
+562,AB3,Samp,Mn 259.372,,14.09,ppm,14.09,ppm,701325
+563,AB3,Samp,Mo 204.598,v,0.06,ppm,0.06,ppm,249.8
+564,AB3,Samp,Na MultiCal,,-,ppm,6.29,-,-
+565,AB3,Samp,Ni 230.299,,0.27,ppm,0.27,ppm,2182
+566,AB3,Samp,P multical,,-,ppm,7.25,-,-
+567,AB3,Samp,S 181.972,,2.82,ppm,2.82,ppm,979.9
+568,AB3,Samp,Zn 206.200,,0.59,ppm,0.59,ppm,1718
+569,AB4,Samp,Al 394.401,,263.6,ppm,263.6,ppm,3190660
+570,AB4,Samp,Ca 422.673,,21.25,ppm,21.25,ppm,2055506
+571,AB4,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6801
+572,AB4,Samp,Fe 238.204,x,366.0,ppm,366.0,ppm,7118751
+573,AB4,Samp,K MultiCal,,-,ppm,22.0,-,-
+574,AB4,Samp,Mg 280.270,,29.05,ppm,29.05,ppm,1914478
+575,AB4,Samp,Mn 259.372,,14.49,ppm,14.49,ppm,720787
+576,AB4,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,210.6
+577,AB4,Samp,Na MultiCal,,-,ppm,6.05,-,-
+578,AB4,Samp,Ni 230.299,,0.26,ppm,0.26,ppm,2084
+579,AB4,Samp,P multical,,-,ppm,6.96,-,-
+580,AB4,Samp,S 181.972,,2.69,ppm,2.69,ppm,939.9
+581,AB4,Samp,Zn 206.200,,0.58,ppm,0.58,ppm,1695
+582,AB5,Samp,Al 394.401,x,271.5,ppm,271.5,ppm,3267650
+583,AB5,Samp,Ca 422.673,,23.59,ppm,23.59,ppm,2270785
+584,AB5,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6816
+585,AB5,Samp,Fe 238.204,x,342.6,ppm,342.6,ppm,6724323
+586,AB5,Samp,K MultiCal,,-,ppm,24.84,-,-
+587,AB5,Samp,Mg 280.270,,30.38,ppm,30.38,ppm,1998252
+588,AB5,Samp,Mn 259.372,,13.67,ppm,13.67,ppm,680440
+589,AB5,Samp,Mo 204.598,v,0.03,ppm,0.03,ppm,176.5
+590,AB5,Samp,Na MultiCal,,-,ppm,6.11,-,-
+591,AB5,Samp,Ni 230.299,,0.27,ppm,0.27,ppm,2158
+592,AB5,Samp,P multical,,-,ppm,7.03,-,-
+593,AB5,Samp,S 181.972,,2.72,ppm,2.72,ppm,948.6
+594,AB5,Samp,Zn 206.200,,0.58,ppm,0.58,ppm,1698
+595,AB6,Samp,Al 394.401,x,278.7,ppm,278.7,ppm,3338563
+596,AB6,Samp,Ca 422.673,,23.07,ppm,23.07,ppm,2223295
+597,AB6,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6950
+598,AB6,Samp,Fe 238.204,x,375.7,ppm,375.7,ppm,7283403
+599,AB6,Samp,K MultiCal,,-,ppm,26.1,-,-
+600,AB6,Samp,Mg 280.270,,31.15,ppm,31.15,ppm,2047150
+601,AB6,Samp,Mn 259.372,,14.09,ppm,14.09,ppm,701003
+602,AB6,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,195.8
+603,AB6,Samp,Na MultiCal,,-,ppm,6.06,-,-
+604,AB6,Samp,Ni 230.299,,0.27,ppm,0.27,ppm,2167
+605,AB6,Samp,P multical,,-,ppm,7.09,-,-
+606,AB6,Samp,S 181.972,,2.79,ppm,2.79,ppm,970.2
+607,AB6,Samp,Zn 206.200,,0.59,ppm,0.59,ppm,1723
+608,AB7,Samp,Al 394.401,x,277.9,ppm,277.9,ppm,3331415
+609,AB7,Samp,Ca 422.673,,23.46,ppm,23.46,ppm,2258315
+610,AB7,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6914
+611,AB7,Samp,Fe 238.204,x,367.8,ppm,367.8,ppm,7149631
+612,AB7,Samp,K MultiCal,,-,ppm,26.16,-,-
+613,AB7,Samp,Mg 280.270,,30.67,ppm,30.67,ppm,2016711
+614,AB7,Samp,Mn 259.372,,12.43,ppm,12.43,ppm,619341
+615,AB7,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,186.7
+616,AB7,Samp,Na MultiCal,,-,ppm,6.28,-,-
+617,AB7,Samp,Ni 230.299,,0.27,ppm,0.27,ppm,2176
+618,AB7,Samp,P multical,,-,ppm,7.06,-,-
+619,AB7,Samp,S 181.972,,2.77,ppm,2.77,ppm,964.3
+620,AB7,Samp,Zn 206.200,,0.58,ppm,0.58,ppm,1697
+621,AB8,Samp,Al 394.401,,256.3,ppm,256.3,ppm,3118189
+622,AB8,Samp,Ca 422.673,,22.99,ppm,22.99,ppm,2215205
+623,AB8,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6972
+624,AB8,Samp,Fe 238.204,x,388.6,ppm,388.6,ppm,7499386
+625,AB8,Samp,K MultiCal,,-,ppm,22.6,-,-
+626,AB8,Samp,Mg 280.270,,28.56,ppm,28.56,ppm,1883491
+627,AB8,Samp,Mn 259.372,,13.99,ppm,13.99,ppm,695996
+628,AB8,Samp,Mo 204.598,v,0.05,ppm,0.05,ppm,225.4
+629,AB8,Samp,Na MultiCal,,-,ppm,6.04,-,-
+630,AB8,Samp,Ni 230.299,,0.26,ppm,0.26,ppm,2131
+631,AB8,Samp,P multical,,-,ppm,7.18,-,-
+632,AB8,Samp,S 181.972,,5.00,ppm,5.0,ppm,1658
+633,AB8,Samp,Zn 206.200,,0.56,ppm,0.56,ppm,1650
+634,AB9,Samp,Al 394.401,x,285.2,ppm,285.2,ppm,3403194
+635,AB9,Samp,Ca 422.673,,22.23,ppm,22.23,ppm,2146115
+636,AB9,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6804
+637,AB9,Samp,Fe 238.204,x,408.6,ppm,408.6,ppm,7836078
+638,AB9,Samp,K MultiCal,,-,ppm,27.25,-,-
+639,AB9,Samp,Mg 280.270,,30.93,ppm,30.93,ppm,2033434
+640,AB9,Samp,Mn 259.372,,14.55,ppm,14.55,ppm,723673
+641,AB9,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,209.3
+642,AB9,Samp,Na MultiCal,,-,ppm,5.97,-,-
+643,AB9,Samp,Ni 230.299,,0.27,ppm,0.27,ppm,2225
+644,AB9,Samp,P multical,,-,ppm,7.36,-,-
+645,AB9,Samp,S 181.972,,2.81,ppm,2.81,ppm,976.2
+646,AB9,Samp,Zn 206.200,,0.59,ppm,0.59,ppm,1721
+647,AB10,Samp,Al 394.401,x,293.8,ppm,293.8,ppm,3487562
+648,AB10,Samp,Ca 422.673,,27.78,ppm,27.78,ppm,2649283
+649,AB10,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,7012
+650,AB10,Samp,Fe 238.204,x,408.4,ppm,408.4,ppm,7833255
+651,AB10,Samp,K MultiCal,,-,ppm,28.34,-,-
+652,AB10,Samp,Mg 280.270,,33.06,ppm,33.06,ppm,2167210
+653,AB10,Samp,Mn 259.372,,13.34,ppm,13.34,ppm,664351
+654,AB10,Samp,Mo 204.598,v,0.03,ppm,0.03,ppm,178.9
+655,AB10,Samp,Na MultiCal,,-,ppm,6.39,-,-
+656,AB10,Samp,Ni 230.299,,0.28,ppm,0.28,ppm,2293
+657,AB10,Samp,P multical,,-,ppm,7.33,-,-
+658,AB10,Samp,S 181.972,,2.84,ppm,2.84,ppm,984.7
+659,AB10,Samp,Zn 206.200,,0.60,ppm,0.6,ppm,1759
+660,AB11,Samp,Al 394.401,x,283.8,ppm,283.8,ppm,3388751
+661,AB11,Samp,Ca 422.673,,23.63,ppm,23.63,ppm,2274256
+662,AB11,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6917
+663,AB11,Samp,Fe 238.204,x,388.0,ppm,388.0,ppm,7489975
+664,AB11,Samp,K MultiCal,,-,ppm,25.71,-,-
+665,AB11,Samp,Mg 280.270,,31.84,ppm,31.84,ppm,2090612
+666,AB11,Samp,Mn 259.372,,13.97,ppm,13.97,ppm,695483
+667,AB11,Samp,Mo 204.598,v,0.05,ppm,0.05,ppm,227.8
+668,AB11,Samp,Na MultiCal,,-,ppm,6.2,-,-
+669,AB11,Samp,Ni 230.299,,0.28,ppm,0.28,ppm,2304
+670,AB11,Samp,P multical,,-,ppm,7.19,-,-
+671,AB11,Samp,S 181.972,,2.83,ppm,2.83,ppm,984.6
+672,AB11,Samp,Zn 206.200,,0.59,ppm,0.59,ppm,1726
+673,AB12,Samp,Al 394.401,x,286.7,ppm,286.7,ppm,3417544
+674,AB12,Samp,Ca 422.673,,26.06,ppm,26.06,ppm,2494637
+675,AB12,Samp,Cu 324.754,,0.17,ppm,0.17,ppm,6874
+676,AB12,Samp,Fe 238.204,x,371.1,ppm,371.1,ppm,7204830
+677,AB12,Samp,K MultiCal,,-,ppm,25.15,-,-
+678,AB12,Samp,Mg 280.270,,31.46,ppm,31.46,ppm,2066756
+679,AB12,Samp,Mn 259.372,,14.31,ppm,14.31,ppm,712139
+680,AB12,Samp,Mo 204.598,v,0.04,ppm,0.04,ppm,192.9
+681,AB12,Samp,Na MultiCal,,-,ppm,6.25,-,-
+682,AB12,Samp,Ni 230.299,,0.28,ppm,0.28,ppm,2238
+683,AB12,Samp,P multical,,-,ppm,7.08,-,-
+684,AB12,Samp,S 181.972,,2.82,ppm,2.82,ppm,980.6
+685,AB12,Samp,Zn 206.200,,0.60,ppm,0.6,ppm,1750
+686,Worksheet Signature Trail,,,,,,,,
+687,Date,Time,User,Authorised By,Description,,,,
